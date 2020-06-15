@@ -8,10 +8,14 @@ Stringie (in order):
   2. ballgown.r
   3. Stringtie-last.sh
 
+
 CrypSplice:
+
   run following command 
     python CrypSplice.py –C WT1.bed,WT2.bed,WT3.bed –T MT1.bed,MT2.bed,MT3.bed –G MM10 –F 10 –M 0.95 –P 6
+  
   Dependencies:
+  
   Python version 2.7
   bedtools version 2.29.2
   CrypSplice pipeline requires CrypSplice.py and BBTestP.r 
