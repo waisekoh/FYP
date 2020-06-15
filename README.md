@@ -18,4 +18,4 @@ Dependencies:
 Python version 2.7
 bedtools version 2.29.2
 
-CrypSplice pipeline requires CrypSplice.py and BBTestP.r 
+CrypSplice pipeline requires CrypSplice.py and BBTestP.r to be in the same directory
